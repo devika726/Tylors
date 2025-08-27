@@ -1,0 +1,158 @@
+
+.a{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(5, 5, 129);
+}
+
+.b{
+    font-size: 15px;
+  
+}
+.c{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.img1{
+    margin:0px 50px;
+}
+ 
+.th{
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+.p1{
+     text-align: center;
+     color: black;
+   
+}
+
+.h{
+    color: rgba(53, 140, 246, 0.794);
+    font-size:18px;
+    text-align: center;
+}
+.sec2{
+    background-color: #5893cf;
+    margin-top: 20px;
+    padding:30px;
+}
+.sec4{
+    background-color: #5893cf;
+    margin-top: 20px;
+    padding:30px;
+    position: relative;
+}
+
+
+.inbox1{
+    float:right;
+}
+.inbox2{
+    padding: 20px;
+    float: left;
+}
+.heading_line{
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.706);
+    height: 2px;
+}
+
+.line{
+    margin: auto;
+    width: 70%;
+    height: 2px;
+    background-color: white;
+}
+
+
+
+h1{
+    font-size: 25px;
+     color: white;
+}
+p,.p2{
+    color: white;
+}
+.sec5{
+    background-color:rgb(50, 49, 49);
+    padding: 30px;
+    /* margin-top: 15px;
+     */
+}
+.sec7{
+    background-color:rgb(50, 49, 49);
+    padding: 30px;
+    margin-top: 15px;
+
+}
+.hv{
+    color: white;
+    text-align: center;
+}
+.p2{
+    text-align: center;
+    font-weight: 25px;
+}
+.inbox3{
+  text-align: center;
+   
+}
+
+.indo{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+
+.inbox{
+    height: 200px;
+    /* width: 100%; */
+    margin: -10px;
+}
+.hu{
+   font-weight: bold;
+   font-size: 15px;
+}
+.p3{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 400;
+}
+.p4{
+    font-size: 15px;
+}
+
+.copi{
+    color: black;
+    font-size: 13px;
+}
+.copi2{
+     color: rgb(0, 187, 255);
+     font-size: 13px;
+}
+
+
+.pics{
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.triangle-down {
+	height: 10px;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #5893cf;
+    position: absolute;
+    left: 50%;
+    bottom: -25px;
+}
+
+.indsec{
+ padding: 20px;
+}
